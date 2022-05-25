@@ -9,6 +9,7 @@ function App() {
     <div className="App">
 
         <NavPanel />
+
         <Tecnologes />
 
     </div>
